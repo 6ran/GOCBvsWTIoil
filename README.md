@@ -1,4 +1,4 @@
-Are there any correlations between the Government of Canada Bonds (GOCBs) and WTI Oil Futures?
+## Are there any correlations between the Government of Canada Bonds (GOCBs) and WTI Oil Futures?
 
 This is a fun personal project I did myself to try and see if there are any correlations between GOCBs and WTI oil.
 
